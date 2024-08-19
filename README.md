@@ -10,7 +10,7 @@ DOI: available upon publication
 
 ****
 ### Acknowledgement
-The related study was conducted in (1) Department of Animal Breeding, Institute of Animal Sciences, Warsaw University of Life Sciences, Ciszewskiego 8, 02-786 Warsaw, Poland
+The related study was conducted in (1) Department of Animal Breeding (head: D.Sc. Krzysztof Damaziak), Institute of Animal Sciences, Warsaw University of Life Sciences, Ciszewskiego 8, 02-786 Warsaw, Poland
 and (2) Laboratory of Processing and Analysis of Microscopic Images (head: D.Sc. Anna Korzynska) in Nalecz Institute of Biocybernetics and Biomedical Engineering Polish Academy of Sciences.
 
 ### Liability
