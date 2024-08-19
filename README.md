@@ -3,8 +3,6 @@
 ### Description
 The study used AI tools to analyze and identify species-specific patterns in bird eggs, showing that these methods can effectively classify eggs by species.
 
-%![13640_2020_514_Fig3_HTML](https://github.com/knave88/Clustered-nuclei-splitting-with-recurrent-distance-transform/blob/main/13640_2020_514_Fig3_HTML.png)
-
 ### Publication
 Pstrokonski, P., et al. Application of Explainable Artificial Intelligence in classifying shrike (Laniidae) eggs: is it possible to uncover pigmentation patterns for species-wide identification. Submitted. (published: XX XX XXXX)
 
